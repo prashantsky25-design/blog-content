@@ -1,4 +1,4 @@
- ---
+---
 author: [Jagdish, Gangotrinath, Ramkumar, Prashant, Pari, Deeksha]
 title: This Month in AI - July 2026
 lastmod: "2026-07-31"
