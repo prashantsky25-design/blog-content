@@ -11,7 +11,7 @@ image: poster.png
 aliases: [blog-august-2026]
 ---
 
-July 2026 marked a defining month in the evolution of artificial intelligence, showcasing rapid technological advancements alongside critical discussions on AI safety, governance, and global adoption. From OpenAI's GPT-5.6 model family and Anthropic's adaptive reasoning innovations to Google's expansion of AI-powered search and regional AI infrastructure, the month highlighted how AI is becoming increasingly integrated into real-world applications. At the same time, emerging cybersecurity incidents and debates surrounding AI model ownership emphasized the growing need for responsible development and regulatory oversight. This edition presents the month's most significant AI developments, offering readers a concise overview of the breakthroughs, challenges, and trends shaping the future of intelligent systems.
+August 2026 marked a significant period of transformation in the artificial intelligence landscape, characterized by rapid advances in model capabilities, large-scale computing investments, open-weight AI development, regulatory preparation, and autonomous systems. This blog examines five major developments from the month, including Google DeepMind's leadership restructuring, xAI's Grok 4.6 launch, Anthropic's major compute commitments and growing focus on AI governance, DARPA's autonomous F-16 flight demonstration, and Meta's expansion of open-weight AI models. Together, these developments demonstrate how competition in AI is increasingly shaped not only by model performance, but also by computing infrastructure, execution speed, open ecosystems, regulatory readiness, and responsible deployment.
 
 # August 2026: AI News Highlights
 
@@ -46,7 +46,7 @@ On August 15, 2026, Anthropic appointed Tino Cuéllar as its first Chief Global 
 
 The U.S. Defense Advanced Research Projects Agency announced the successful completion of the first real-world flight of an F-16 fighter jet fully controlled by artificial intelligence, with no pilot in the loop. The autonomous aircraft executed complex maneuvers, maintained flight stability, and responded to simulated threats during the August 2026 trial. While AI systems have outperformed humans in simulated dogfights for years, autonomous real-world operation of military hardware represents a qualitative leap. The demonstration accelerates international conversations around autonomous weapons proliferation and prompted renewed calls for binding international agreements on AI in military systems.
 
-## 6. Meta Releases Muse Spark 1.2 and Muse Glimmer Open Weights; Doubles Down on Open AI [^5]
+## 6. Meta Releases Muse Spark 1.2 and Muse Glimmer Open Weights; Doubles Down on Open AI [^6]
 
 ![Meta Doubles Down on Open AI](Picture6.png)
 
